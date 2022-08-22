@@ -17,6 +17,7 @@
     border: 3px solid black;
     margin-bottom: 100px;
     box-shadow: -3px 3px 3px black;
+    transition: 700ms;
 }
 
 input{
